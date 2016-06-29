@@ -1,2 +1,1 @@
-# ios-course-super-cool-app
-First app in iOS course
+ios apps for practice/fun
